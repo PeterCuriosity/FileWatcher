@@ -21,5 +21,9 @@ namespace FileWatcher
             };
             ServiceBase.Run(ServicesToRun);
         }
+        private void test3()
+        {
+            string xxxxx = "ggg";
+        }
     }
 }
